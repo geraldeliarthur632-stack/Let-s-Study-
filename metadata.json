@@ -1,0 +1,11 @@
+{
+  "name": " Let\u0027s Study 123",
+  "description": "Estude bastante... e utilize este aplicativo para organizar seu cronograma de estudos com lembretes diários.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
